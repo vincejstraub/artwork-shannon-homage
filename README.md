@@ -1,4 +1,4 @@
-# Code for: _Hommage to Claude Shannon_ (2020).
+# Code for: _Portrait of Claude Shannon_ (2020).
 
 ## Table of Contents
 * [General info](general-info)
